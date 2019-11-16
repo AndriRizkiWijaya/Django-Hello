@@ -1,11 +1,80 @@
-Collecting freeze
-  Downloading https://files.pythonhosted.org/packages/c2/16/ca9fcd75d8c958b2260d521f18d7e697de5d2133fc68fc968feef4a348b6/freeze-1.0.10.tar.gz
-Requirement already satisfied: six in d:\nitip (andri)\develop\python\django\django 2\venv\lib\site-packages (from freeze) (1.12.0)
-Building wheels for collected packages: freeze
-  Building wheel for freeze (setup.py): started
-  Building wheel for freeze (setup.py): finished with status 'done'
-  Created wheel for freeze: filename=freeze-1.0.10-cp36-none-any.whl size=12068 sha256=b307bf218264467dc50ba3c8b6ce48b74b6970a12a746c25d526f8e462bc54ce
-  Stored in directory: C:\Users\Acer\AppData\Local\pip\Cache\wheels\5a\01\6b\b8d944e726b251e0f68a8786a3d26193c16f2883ae6f19c71a
-Successfully built freeze
-Installing collected packages: freeze
-Successfully installed freeze-1.0.10
+amqp==2.5.1
+arrow==0.14.5
+autopep8==1.4.4
+Babel==2.7.0
+billiard==3.6.1.0
+binaryornot==0.4.4
+braintree==3.45.0
+cairocffi==1.1.0
+CairoSVG==2.4.2
+celery==4.3.0
+certifi==2019.3.9
+cffi==1.12.3
+chardet==3.0.4
+Click==7.0
+cookiecutter==1.6.0
+cssselect2==0.2.2
+dataclasses==0.6
+defusedxml==0.6.0
+Django==2.2
+django-allauth==0.39.1
+django-countries==5.3.3
+django-crispy-forms==1.7.2
+django-debug-toolbar==1.10.1
+django-filter==2.1.0
+django-localflavor==2.0
+django-markdownx==2.0.28
+django-parler==1.9.2
+django-rest-framework==0.1.0
+django-rosetta==0.8.1
+django-suit==0.2.26
+djangorestframework==3.9.2
+djongo==1.2.36
+flower==0.9.2
+future==0.17.1
+html5lib==1.0.1
+idna==2.8
+importlib-metadata==0.23
+Jinja2==2.10.1
+jinja2-time==0.2.0
+kombu==4.6.5
+Markdown==3.1
+MarkupSafe==1.1.1
+microsofttranslator==0.8
+mongoengine==0.17.0
+more-itertools==7.2.0
+mysqlclient==1.3.13
+oauthlib==3.0.1
+pdfrw==0.4
+pep8==1.7.1
+Pillow==6.0.0
+polib==1.1.0
+poyo==0.5.0
+psycopg2==2.8.3
+pycodestyle==2.5.0
+pycparser==2.19
+Pygments==2.4.2
+PyJWT==1.7.1
+pymongo==3.7.2
+Pyphen==0.9.5
+python-dateutil==2.8.0
+python-decouple==3.1
+python3-openid==3.1.0
+pytz==2018.5
+redis==2.10.6
+requests==2.21.0
+requests-oauthlib==1.2.0
+six==1.12.0
+social-auth-app-django==2.1.0
+social-auth-core==3.2.0
+sorl-thumbnail==12.4.1
+sqlparse==0.2.4
+stripe==2.27.0
+tinycss2==1.0.2
+tornado==6.0.3
+urllib3==1.24.2
+vine==1.3.0
+WeasyPrint==0.42.3
+webencodings==0.5.1
+whichcraft==0.6.0
+zipp==0.6.0
